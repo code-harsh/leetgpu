@@ -8,7 +8,7 @@ A collection of optimized CUDA solutions for [LeetGPU](https://leetgpu.com/chall
 
 📊 Current Progress ([Profile](https://leetgpu.com/profile?display_name=mad_scientist)):
 - Easy: 15/15 completed
-- Medium: 0/34 completed
+- Medium: 5/34 completed
 - Hard: 0/8 completed
 
 ## Environment
