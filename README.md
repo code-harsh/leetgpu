@@ -7,7 +7,7 @@ A collection of optimized CUDA solutions for [LeetGPU](https://leetgpu.com/chall
 ## Progress Overview
 
 📊 Current Progress ([Profile](https://leetgpu.com/profile?display_name=mad_scientist)):
-- Easy: 15/15 completed
+- Easy: 16/16 completed
 - Medium: 5/34 completed
 - Hard: 0/8 completed
 
@@ -49,6 +49,18 @@ Feel free to contribute by:
 3. Improving documentation
 4. Reporting issues
 
+## Links
+
+Resources for learning CUDA programming:
+- [PMPP Book](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311/)
+- [GPU Mode Lectures](https://www.youtube.com/@GPUMODE)
+- [Modal GPU Glossary](https://modal.com/gpu-glossary)
+- [NVIDIA CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+- [NVIDIA CUDA Books Archive](https://developer.nvidia.com/cuda-books-archive)
+- [UIUC CUDA Programming Course](https://newfrontiers.illinois.edu/news-and-events/introduction-to-parallel-programming-with-cuda/)
+- [Free Code Camp 12 Hour Course](https://youtu.be/86FAWCzIe_4?si=MTOiYG8zcmFrJmnB)
+- [Awesome GPU Engineering Resources](https://github.com/goabiaryan/awesome-gpu-engineering)
+
 ## Work in Progress
 
-This repository is actively maintained and updated. Solutions are continuously optimized as we explore more advanced CUDA techniques and patterns.
+This repository is actively maintained and updated. Solutions shall be improved as we explore more advanced CUDA techniques and patterns.
