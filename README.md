@@ -53,6 +53,7 @@ Feel free to contribute by:
 
 Resources for learning CUDA programming:
 - [PMPP Book](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311/)
+- [Modern CUDA C++ Programming Class by NVIDIA](https://youtube.com/playlist?list=PL5B692fm6--vWLhYPqLcEu6RF3hXjEyJr&si=sNO3WNoxUE3xtAlU)
 - [GPU Mode Lectures](https://www.youtube.com/@GPUMODE)
 - [Modal GPU Glossary](https://modal.com/gpu-glossary)
 - [NVIDIA CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
